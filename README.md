@@ -12,4 +12,3 @@ student page
 For the admin page functionalities such as add book, search book,
 view books are given and for the student page issue , return books
 and view student activities features has been included
-![Alt text](login.jpg)
